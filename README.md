@@ -84,6 +84,25 @@ You should see the CPU usage increase in real time.
 
 ---
 
+## Screenshots
+
+### 1. Code View – Part 1
+![Screenshot 1](screen1.png)
+
+### 2. Code View – Part 2
+![Screenshot 2](screen2.png)
+
+### 3. Code View – Part 3
+![Screenshot 3](screen3.png)
+
+### 4. Code View – Part 4
+![Screenshot 4](screen4.png)
+
+### 5. Running Output (Terminal)
+![Screenshot 5](screen5.png)
+
+---
+
 ## Example Output
 
 ```
