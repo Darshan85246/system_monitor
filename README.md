@@ -62,7 +62,7 @@ Make sure you have:
 
 ### Step 2: Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/system-monitor.git
+https://github.com/Darshan85246/system_monitor.git
 cd system-monitor
 ```
 
